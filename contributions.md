@@ -1,5 +1,5 @@
-| Week #   | Contribution        | Contribution Type  |
-| ------- | ------------------- | ------------------: |
+| **Week #** | **Contribution**  | **Contribution Type**  |
+| ---        | ---               | ---:                   |
 | 3 | [Wikipedia - article edit](https://en.wikipedia.org/w/index.php?title=Keikhosro_Khoroush&diff=prev&oldid=825214340) | Wikipedia |
 | 4 | [Wikipedia - revert edit for grammar](https://en.wikipedia.org/w/index.php?title=Virginia_reel_(dance)&diff=prev&oldid=825217972) | Wikipedia |
 | 4 | [Wikipedia - revert vandalism](https://en.wikipedia.org/w/index.php?title=The_History_of_Rome_(podcast)&diff=prev&oldid=825218984) | Wikipedia |
@@ -20,8 +20,8 @@
 
 <br>
 
-|     | Points |
-| --- | ---    |
+|     | **Points** |
+| --- | ---:       |
 | Wikipedia | 5 |
 | Course Website | 6 |
 | Other | 3 |
