@@ -1,5 +1,5 @@
 | Week #   | Contribution        | Contribution Type  |
-| -------: | ------------------- | ------------------ |
+| ------- | ------------------- | ------------------: |
 | 3 | [Wikipedia - article edit](https://en.wikipedia.org/w/index.php?title=Keikhosro_Khoroush&diff=prev&oldid=825214340) | Wikipedia |
 | 4 | [Wikipedia - revert edit for grammar](https://en.wikipedia.org/w/index.php?title=Virginia_reel_(dance)&diff=prev&oldid=825217972) | Wikipedia |
 | 4 | [Wikipedia - revert vandalism](https://en.wikipedia.org/w/index.php?title=The_History_of_Rome_(podcast)&diff=prev&oldid=825218984) | Wikipedia |
@@ -18,10 +18,10 @@
 | 5 | [Course website - commented on issue](https://github.com/joannakl/cs480_s18/issues/41#issuecomment-365143225) | course website |
 | 6 | [OpenStreetMap - add buildings](https://www.openstreetmap.org/changeset/56741533) | other |
 
+<br>
 
-
-| POINTS | Wikipedia | Course Website | Other | Points overall | 
-| --- | --- | --- | --- | --- |
-| **Totals** | 5 | 6 | 3 | **14** | 
+| Points | Wikipedia | Course Website | Other | Points overall | 
+| ---    | ---       | ---            | ---   | ---            |
+| **Totals** | 5 | 6 | 3 | **14** |
 
 Note: I have more than 5 Wikipedia edits, but only 5 points from Wikipedia count toward the 20 points/edits
