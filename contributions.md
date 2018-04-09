@@ -20,8 +20,11 @@
 
 <br>
 
-| Points | Wikipedia | Course Website | Other | Points overall | 
-| ---    | ---       | ---            | ---   | ---            |
-| **Totals** | 5 | 6 | 3 | **14** |
+|     | Points |
+| --- | ---    |
+| Wikipedia | 5 |
+| Course Website | 6 |
+| Other | 3 |
+| **Total** | **14** |
 
 Note: I have more than 5 Wikipedia edits, but only 5 points from Wikipedia count toward the 20 points/edits
