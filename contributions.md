@@ -1,0 +1,3 @@
+| Week #  | Contribution        | Contribution Type  |
+| ------- | ------------------- | ------------------ |
+|  |  |  |
