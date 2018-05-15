@@ -16,15 +16,21 @@
 | 5 | [Course website - commented on issue](https://github.com/joannakl/cs480_s18/issues/38#issuecomment-365333954) | course website |
 | 5 | [Course website - commented on issue](https://github.com/joannakl/cs480_s18/issues/42#issuecomment-365140990) | course website |
 | 5 | [Course website - commented on issue](https://github.com/joannakl/cs480_s18/issues/41#issuecomment-365143225) | course website |
+| 6 | [Course website - commented on PR](https://github.com/joannakl/cs480_s18/pull/60#issuecomment-366912927) | course website |
 | 6 | [OpenStreetMap - add buildings](https://www.openstreetmap.org/changeset/56741533) | other |
+| 13+ | [OpenStreetMap - add baseball fields](https://www.openstreetmap.org/changeset/58968779) | other |
+| 13+ | [OpenStreetMap - add parking lots](https://www.openstreetmap.org/changeset/58968839) | other |
+| 13+ | [OpenStreetMap - add building, parking, etc](https://www.openstreetmap.org/changeset/58968997) | other |
+| 13+ | [OpenStreetMap - add building and parking lots](https://www.openstreetmap.org/changeset/58969034) | other |
+| 13+ | [OpenStreetMap - add store](https://www.openstreetmap.org/changeset/58969086) | other |
 
 <br>
 
 |     | **Points** |
 | --- | ---:       |
 | Wikipedia | 5 |
-| Course Website | 6 |
-| Other | 3 |
-| **Total** | **14** |
+| Course Website | 7 |
+| Other | 8 |
+| **Total** | **20** |
 
 Note: I have more than 5 Wikipedia edits, but only 5 points from Wikipedia count toward the 20 points/edits
