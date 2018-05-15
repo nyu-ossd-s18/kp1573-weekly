@@ -23,6 +23,7 @@
 | 13+ | [OpenStreetMap - add building, parking, etc](https://www.openstreetmap.org/changeset/58968997) | other |
 | 13+ | [OpenStreetMap - add building and parking lots](https://www.openstreetmap.org/changeset/58969034) | other |
 | 13+ | [OpenStreetMap - add store](https://www.openstreetmap.org/changeset/58969086) | other |
+| 13+ | [OpenStreetMap - add store](https://www.openstreetmap.org/changeset/58969185) | other |
 
 <br>
 
@@ -30,7 +31,7 @@
 | --- | ---:       |
 | Wikipedia | 5 |
 | Course Website | 7 |
-| Other | 8 |
-| **Total** | **20** |
+| Other | 9 |
+| **Total** | **21** |
 
 Note: I have more than 5 Wikipedia edits, but only 5 points from Wikipedia count toward the 20 points/edits
